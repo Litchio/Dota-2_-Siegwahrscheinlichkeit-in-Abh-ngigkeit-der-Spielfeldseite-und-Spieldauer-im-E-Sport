@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593926586868.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9A66ED0E",
+    "lastKnownWriteTime" : 15,
+    "last_content_update" : 1593926586868,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "18476222",
+        "caption" : "opendota",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=opendota&cache_key=18476222",
+        "displayedObservations" : "40004",
+        "environment" : "",
+        "expression" : "opendota",
+        "object" : "opendota",
+        "preview" : "0",
+        "totalObservations" : "40004",
+        "variables" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
